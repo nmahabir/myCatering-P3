@@ -1,0 +1,130 @@
+[
+  {
+    "id": 2,
+    "title": "Pastelles",
+    "mealType": ["snack", "lunch", "dinner"],
+    "price": {
+      "beef": 25,
+      "chicken": 30,
+      "vegetable": 20,
+      "crab & shrimp": 40
+    },
+    "recipe": [""]
+  },
+  {
+    "id": 2,
+    "title": "Arepas",
+    "mealType": ["snack"],
+    "price": {
+      "beef": 12,
+      "chicken": 15,
+      "vegetable": 10,
+      "crab & shrimp": 20
+    },
+    "recipe": [""]
+  },
+  {
+    "id": 3,
+    "title": "Pies",
+    "mealType": ["snack"],
+    "price": { "beef": 12, "chicken": 15, "vegetable": 10 },
+    "recipe": [""]
+  },
+  {
+    "id": 4,
+    "title": "Sausage Rolls",
+    "mealType": ["snack"],
+    "price": { "sausage roll": 8 },
+    "recipe": [""]
+  },
+  {
+    "id": 5,
+    "title": "Samosas",
+    "mealType": ["snack"],
+    "price": { "chicken": 20, "vegetable": 15 },
+    "recipe": [""]
+  },
+  {
+    "id": 6,
+    "title": "Mini Pizzas",
+    "mealType": ["snack"],
+    "price": { "pepperoni": 20, "vegetable": 10 },
+    "recipe": [""]
+  },
+  {
+    "id": 7,
+    "title": "Puffs",
+    "mealType": ["snack"],
+    "price": { "cheese": 5, "chicken": 8 },
+    "recipe": [""]
+  },
+  {
+    "id": 8,
+    "title": "Currant rolls",
+    "mealType": ["snack", "desert"],
+    "price": { "currant rolls": 15 },
+    "recipe": [""]
+  },
+  {
+    "id": 9,
+    "title": "Boitos",
+    "mealType": ["snack"],
+    "price": { "beef": 5, "chicken": 7, "vegetable": 3, "crab & shrimp": 10 },
+    "recipe": [""]
+  },
+  {
+    "id": 10,
+    "title": "Golden Chicken",
+    "mealType": ["lunch", "dinner"],
+    "price": { "golden chicken": 35 },
+    "recipe": [""]
+  },
+  {
+    "id": 11,
+    "title": "Bhagi and Rice",
+    "mealType": ["lunch", "dinner"],
+    "price": { "bhagi and rice": 20 },
+    "recipe": [""]
+  },
+  {
+    "id": 12,
+    "title": "Curried Meats",
+    "mealType": ["lunch", "dinner"],
+    "price": { "beef": 25, "chicken": 28, "goat": 32, "duck": 28 },
+    "recipe": [""]
+  },
+  {
+    "id": 13,
+    "title": "Bouches",
+    "mealType": ["snack"],
+    "price": {
+      "crab": 8,
+      "shrimp": 8,
+      "smoked salmon": 8,
+      "cheese": 5,
+      "chicken": 5
+    },
+    "recipe": [""]
+  },
+  {
+    "id": 14,
+    "title": "Stuffed Eggs",
+    "mealType": ["snack"],
+    "price": { "stuffed eggs": 8 },
+    "recipe": [""]
+  },
+  {
+    "id": 15,
+    "title": "Fried Shark and Dip",
+    "mealType": ["snack"],
+    "price": { "fried shark with dip": 15 },
+    "recipe": [""]
+  },
+  {
+    "id": 16,
+    "title": "Shish Kebabs",
+    "mealType": ["snack", "lunch", "dinner"],
+    "price": { "beef": 12, "chicken": 15, "vegetable": 10, "shrimp": 20 },
+    "recipe": [""]
+  }
+]
