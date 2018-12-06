@@ -1,0 +1,25 @@
+{
+  "name": "mycatering-p3",
+  "version": "1.0.0",
+  "description": "my-catering Project 4",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nmahabir/myCatering-P3.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nmahabir/myCatering-P3/issues"
+  },
+  "homepage": "https://github.com/nmahabir/myCatering-P3#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "mongodb": "^3.1.10",
+    "mongoose": "^5.3.15"
+  }
+}

@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Arepas",
+    "image": "../sampleImages/Arepas-2.jpg",
+    "selected": false
+  },
+  {
+    "id": 2,
+    "name": "Channa Salad",
+    "image": "../sampleImages/ChannaSalad.jpg",
+    "selected": false
+  },
+  {
+    "id": 3,
+    "name": "Crab Backs",
+    "image": "../sampleImages/CrabBacks.jpg",
+    "selected": false
+  },
+  {
+    "id": 4,
+    "name": "Creme Caramel",
+    "image": "../sampleImages/CremeCaramel.jpg",
+    "selected": false
+  },
+  {
+    "id": 5,
+    "name": "Pie",
+    "image": "../sampleImages/Pie.jpg",
+    "selected": false
+  },
+  {
+    "id": 6,
+    "name": "Stuffed Mushrooms",
+    "image": "../sampleImages/StuffedMushrooms-2.jpg",
+    "selected": false
+  }
+]
