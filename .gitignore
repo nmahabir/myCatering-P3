@@ -5,7 +5,8 @@
 # Code for JSON: // "heroku-postbuild": "npm run build"
 
 /node_modules
-/client/node_modules
+# /client/node_modules
+/client
 /.pnp
 .pnp.js
 .env

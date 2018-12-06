@@ -1,0 +1,19 @@
+[
+  {
+    "id": 1,
+    "name" : "Maria Test",
+    "currentOrder": [{}],
+    "pastOrders": [{}],
+    "email": "maria@bg.tt",     
+    "phoneNumber": "868-622-2783",
+    "company": "British Gas"
+  },
+  { "id": 2,
+    "name" : "Diane Test",
+    "currentOrder": [{}],
+    "pastOrders": [{}],
+    "email": "diane@shell.tt",     
+    "phoneNumber": "868-622-2020",
+    "company": "Shell"
+  }
+]
