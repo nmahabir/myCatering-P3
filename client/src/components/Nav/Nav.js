@@ -1,6 +1,6 @@
 import React from "react";
 import { Link } from 'react-router-dom'
-import * as ROUTES from '../../utils/FirebaseRoutes';
+// import * as ROUTES from '../../utils/FirebaseRoutes';
 
 const Nav = props => (
   <nav className="navbar navbar-dark bg-primary">
