@@ -19,8 +19,13 @@
     "start:dev": "concurrently \"nodemon --ignore 'client/*'\" \"npm run client\"",
     "client": "cd client && npm run start",
     "seed": "node scripts/seedDB.js",
+<<<<<<< HEAD
     "install": "npm install",
     "build": "react-scripts build"
+=======
+    "install": "cd client && npm install",
+    "build": "cd client && npm run build"
+>>>>>>> parent of 7375e32... heroku testing
     
     
   },
