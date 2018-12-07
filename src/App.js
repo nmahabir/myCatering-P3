@@ -7,6 +7,7 @@ import Jumbotron from "./components/Jumbotron";
 import Home from "./pages/Home";
 import SignUp from "./pages/SignUp";
 import SignIn from "./pages/SignIn";
+import Landing from "./pages/Landing";
 
 class App extends Component {
   render() {
@@ -17,7 +18,8 @@ class App extends Component {
         <Nav/>
         <Jumbotron/>
         <Switch>
-        <Route exact path="/" component={Home} />
+        <Route exact path="/Home" component={Home} />
+        <Route exact path="/" component={Landing} />
         <Route exact path="/SignUp" component={SignUp} />
         <Route exact path="/SignIn" component={SignIn} />
         </Switch>        
